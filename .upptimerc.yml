@@ -34,6 +34,9 @@ status-website:
       href: https://nubificus.co.uk
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Nubificus local status
+      href: https://uptime.nbfc.io
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
