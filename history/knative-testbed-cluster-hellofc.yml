@@ -1,7 +1,7 @@
-url: https://hellocontainer.default.knative.nbfc.io
+url: https://hellofc.default.knative.nbfc.io
 status: up
 code: 200
-responseTime: 3767
-lastUpdated: 2023-09-03T19:01:19.721Z
+responseTime: 3631
+lastUpdated: 2023-09-03T19:07:31.427Z
 startTime: 2023-09-03T19:00:50.802Z
 generator: Upptime <https://github.com/upptime/upptime>
