@@ -21,7 +21,7 @@ sites:
     url: https://openfaas.serrano.nbfc.io/function/cows
   - name: knative testbed cluster (hellofc)
     url: https://hellofc.default.knative.nbfc.io
-  - name: knative testbed cluster (hellofc)
+  - name: knative testbed cluster (hellocontainer)
     url: https://hellocontainer.default.knative.nbfc.io
 
 status-website:
