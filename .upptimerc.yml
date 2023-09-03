@@ -9,12 +9,20 @@ sites:
     url: https://s3.nbfc.io
   - name: owncloud
     url: https://owncloud.nbfc.io
-  - name: Main server
+  - name: Mail server
     url: https://mail.nubificus.co.uk
   - name: Monitoring-1
     url: https://monit.nubificus.co.uk
   - name: Monitoring-2
     url: https://grafana.nephos.gr
+  - name: OpenFaaS main cluster (nodeinfo)
+    url: https://openfaas.nbfc.io/function/nodeinfo
+  - name: OpenFaaS testbed cluster (cows)
+    url: https://openfaas.serrano.nbfc.io/function/cows
+  - name: knative testbed cluster (hellofc)
+    url: https://hellofc.default.knative.nbfc.io
+  - name: knative testbed cluster (hellofc)
+    url: https://hellocontainer.default.knative.nbfc.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
