@@ -148,18 +148,20 @@
     "url": "https://hellofc.default.knative.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 8860,
     "timeDay": 8860,
     "timeWeek": 8860,
     "timeMonth": 8860,
     "timeYear": 8860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-04": 1
+    }
   },
   {
     "name": "knative testbed cluster (hellocontainer)",
