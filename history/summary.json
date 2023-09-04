@@ -148,19 +148,19 @@
     "url": "https://hellofc.default.knative.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 8860,
-    "timeDay": 8860,
-    "timeWeek": 8860,
-    "timeMonth": 8860,
-    "timeYear": 8860,
+    "status": "up",
+    "uptime": "97.83%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.83%",
+    "time": 7742,
+    "timeDay": 7742,
+    "timeWeek": 7742,
+    "timeMonth": 7742,
+    "timeYear": 7742,
     "dailyMinutesDown": {
-      "2023-09-04": 1
+      "2023-09-04": 20
     }
   },
   {
