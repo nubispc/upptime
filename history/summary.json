@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptime": "98.65%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 7023,
     "timeDay": 3430,
     "timeWeek": 7023,
     "timeMonth": 7023,
     "timeYear": 7023,
     "dailyMinutesDown": {
-      "2023-09-05": 2,
+      "2023-09-05": 12,
       "2023-09-04": 20
     }
   },
@@ -169,19 +169,19 @@
     "url": "https://hellocontainer.default.knative.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/hellocontainer.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellocontainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2841,
-    "timeDay": 2728,
-    "timeWeek": 2841,
-    "timeMonth": 2841,
-    "timeYear": 2841,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 6567,
+    "timeDay": 10237,
+    "timeWeek": 6567,
+    "timeMonth": 6567,
+    "timeYear": 6567,
     "dailyMinutesDown": {
-      "2023-09-05": 0
+      "2023-09-05": 11
     }
   }
 ]
