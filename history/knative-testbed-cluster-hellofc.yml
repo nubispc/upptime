@@ -1,7 +1,7 @@
 url: https://hellofc.default.knative.nbfc.io
-status: up
-code: 200
-responseTime: 3056
-lastUpdated: 2023-09-05T23:12:22.922Z
+status: down
+code: 503
+responseTime: 626
+lastUpdated: 2023-09-06T21:16:45.966Z
 startTime: 2023-09-03T19:00:50.802Z
 generator: Upptime <https://github.com/upptime/upptime>
