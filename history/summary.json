@@ -4,9 +4,9 @@
     "url": "https://nubis-pc.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nubis-pc.eu.ico",
     "slug": "nubis-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 306,
     "timeMonth": 349,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "S3",
