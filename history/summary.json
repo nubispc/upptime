@@ -25,10 +25,10 @@
     "url": "https://s3.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/s3.nbfc.io.ico",
     "slug": "s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 586,
@@ -37,6 +37,7 @@
     "timeMonth": 586,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2023-09-24": 1,
       "2023-09-20": 23,
       "2023-09-06": 62
     }
@@ -46,9 +47,9 @@
     "url": "https://owncloud.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/owncloud.nbfc.io.ico",
     "slug": "owncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
@@ -58,6 +59,7 @@
     "timeMonth": 965,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-20": 22,
       "2023-09-06": 129
     }
@@ -85,10 +87,10 @@
     "url": "https://monit.nubificus.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/monit.nubificus.co.uk.ico",
     "slug": "monitoring-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.74%",
     "time": 1032,
@@ -97,6 +99,7 @@
     "timeMonth": 1032,
     "timeYear": 1032,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-20": 22,
       "2023-09-06": 61
     }
@@ -106,9 +109,9 @@
     "url": "https://grafana.nephos.gr",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nephos.gr.ico",
     "slug": "monitoring-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
@@ -118,6 +121,7 @@
     "timeMonth": 1420,
     "timeYear": 1420,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-23": 21,
       "2023-09-17": 10,
       "2023-09-16": 10,
@@ -131,9 +135,9 @@
     "url": "https://openfaas.nbfc.io/function/nodeinfo",
     "icon": "https://icons.duckduckgo.com/ip3/openfaas.nbfc.io.ico",
     "slug": "open-faa-s-main-cluster-nodeinfo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -143,6 +147,7 @@
     "timeMonth": 633,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-20": 21,
       "2023-09-06": 50
     }
@@ -152,9 +157,9 @@
     "url": "https://openfaas.serrano.nbfc.io/function/cows",
     "icon": "https://icons.duckduckgo.com/ip3/openfaas.serrano.nbfc.io.ico",
     "slug": "open-faa-s-testbed-cluster-cows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
@@ -164,6 +169,7 @@
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-13": 101,
       "2023-09-06": 10
     }
@@ -173,9 +179,9 @@
     "url": "https://hellofc.default.knative.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
@@ -185,6 +191,7 @@
     "timeMonth": 5428,
     "timeYear": 5428,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-13": 28,
       "2023-09-12": 20,
       "2023-09-07": 73,
@@ -198,9 +205,9 @@
     "url": "https://hellocontainer.default.knative.nbfc.io",
     "icon": "https://icons.duckduckgo.com/ip3/hellocontainer.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellocontainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -210,6 +217,7 @@
     "timeMonth": 3201,
     "timeYear": 3201,
     "dailyMinutesDown": {
+      "2023-09-24": 0,
       "2023-09-13": 27,
       "2023-09-12": 19,
       "2023-09-06": 11,
