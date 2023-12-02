@@ -1,7 +1,7 @@
 url: https://openfaas.serrano.nbfc.io/function/cows
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-02T21:38:48.156Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2023-12-02T21:49:36.761Z
 startTime: 2023-09-03T19:00:49.955Z
 generator: Upptime <https://github.com/upptime/upptime>
