@@ -1,7 +1,7 @@
 url: https://monit.nubificus.co.uk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-01T18:11:42.848Z
+status: up
+code: 200
+responseTime: 991
+lastUpdated: 2024-01-01T19:50:30.457Z
 startTime: 2023-09-02T06:36:44.479Z
 generator: Upptime <https://github.com/upptime/upptime>
