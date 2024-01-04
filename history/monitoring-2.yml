@@ -1,7 +1,7 @@
 url: https://grafana.nephos.gr
-status: down
-code: 404
-responseTime: 864
-lastUpdated: 2024-01-04T19:19:44.303Z
+status: up
+code: 200
+responseTime: 1069
+lastUpdated: 2024-01-04T19:53:22.550Z
 startTime: 2023-09-02T06:36:45.749Z
 generator: Upptime <https://github.com/upptime/upptime>
