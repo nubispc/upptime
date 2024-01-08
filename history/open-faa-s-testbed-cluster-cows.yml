@@ -1,7 +1,7 @@
 url: https://openfaas.serrano.nbfc.io/function/cows
 status: up
 code: 200
-responseTime: 431
-lastUpdated: 2024-01-07T23:13:18.549Z
+responseTime: 611
+lastUpdated: 2024-01-08T23:13:54.668Z
 startTime: 2023-09-03T19:00:49.955Z
 generator: Upptime <https://github.com/upptime/upptime>
