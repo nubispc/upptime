@@ -1,7 +1,7 @@
 url: https://openfaas.nbfc.io/function/nodeinfo
 status: up
 code: 200
-responseTime: 606
-lastUpdated: 2024-03-04T23:13:56.348Z
+responseTime: 614
+lastUpdated: 2024-03-05T23:12:40.291Z
 startTime: 2023-09-03T19:00:48.919Z
 generator: Upptime <https://github.com/upptime/upptime>
