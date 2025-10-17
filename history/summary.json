@@ -4,19 +4,19 @@
     "url": "https://nubis-pc.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nubis-pc.eu.ico",
     "slug": "nubis-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 439,
-    "timeDay": 539,
-    "timeWeek": 410,
-    "timeMonth": 453,
-    "timeYear": 432,
+    "timeDay": 387,
+    "timeWeek": 388,
+    "timeMonth": 446,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-10-17": 1
+      "2025-10-17": 23
     }
   },
   {
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.nubificus.co.uk.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "90.43%",
+    "uptime": "90.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-10-17": 613,
+      "2025-10-17": 635,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -207,7 +207,7 @@
     "timeMonth": 0,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2025-10-17": 613,
+      "2025-10-17": 635,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -618,7 +618,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 613,
+      "2025-10-17": 636,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1002,7 +1002,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 613,
+      "2025-10-17": 636,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1386,7 +1386,7 @@
     "timeMonth": 0,
     "timeYear": 2420,
     "dailyMinutesDown": {
-      "2025-10-17": 613,
+      "2025-10-17": 636,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
