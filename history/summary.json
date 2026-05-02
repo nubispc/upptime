@@ -10,10 +10,10 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.92%",
-    "time": 539,
-    "timeDay": 763,
-    "timeWeek": 566,
-    "timeMonth": 544,
+    "time": 538,
+    "timeDay": 352,
+    "timeWeek": 550,
+    "timeMonth": 532,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2026-04-26": 38,
@@ -40,10 +40,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.79%",
     "time": 656,
-    "timeDay": 672,
-    "timeWeek": 612,
-    "timeMonth": 588,
-    "timeYear": 656,
+    "timeDay": 643,
+    "timeWeek": 637,
+    "timeMonth": 587,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2026-04-09": 62,
       "2025-07-30": 494,
@@ -61,10 +61,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.76%",
-    "time": 1070,
-    "timeDay": 1124,
-    "timeWeek": 1002,
-    "timeMonth": 993,
+    "time": 1069,
+    "timeDay": 1140,
+    "timeWeek": 1049,
+    "timeMonth": 994,
     "timeYear": 1063,
     "dailyMinutesDown": {
       "2026-04-09": 197,
@@ -78,18 +78,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.nubificus.co.uk.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "72.19%",
+    "uptime": "72.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.27%",
-    "time": 821,
+    "uptimeYear": "26.00%",
+    "time": 820,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 836,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2026-05-01": 217,
+      "2026-05-02": 173,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -375,9 +376,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.79%",
     "time": 1063,
-    "timeDay": 1079,
-    "timeWeek": 1016,
-    "timeMonth": 993,
+    "timeDay": 1213,
+    "timeWeek": 1065,
+    "timeMonth": 999,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2026-04-09": 61,
@@ -391,18 +392,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nephos.gr.ico",
     "slug": "monitoring-2",
     "status": "down",
-    "uptime": "25.44%",
+    "uptime": "25.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1272,
+    "time": 1274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1722,
     "dailyMinutesDown": {
-      "2026-05-01": 217,
+      "2026-05-02": 173,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -765,8 +767,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 1440
+      "2025-05-03": 1440
     }
   },
   {
@@ -781,10 +782,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.79%",
     "time": 691,
-    "timeDay": 679,
-    "timeWeek": 621,
-    "timeMonth": 596,
-    "timeYear": 696,
+    "timeDay": 628,
+    "timeWeek": 642,
+    "timeMonth": 593,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2026-04-09": 61,
       "2025-07-30": 494,
@@ -797,7 +798,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openfaas.serrano.nbfc.io.ico",
     "slug": "open-faa-s-testbed-cluster-cows",
     "status": "down",
-    "uptime": "16.53%",
+    "uptime": "16.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -808,7 +809,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 217,
+      "2026-05-02": 173,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1171,8 +1173,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 1440
+      "2025-05-03": 1440
     }
   },
   {
@@ -1181,7 +1182,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
     "status": "down",
-    "uptime": "24.81%",
+    "uptime": "24.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1192,7 +1193,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 217,
+      "2026-05-02": 173,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1555,8 +1557,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 1440
+      "2025-05-03": 1440
     }
   },
   {
@@ -1565,7 +1566,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellocontainer.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellocontainer",
     "status": "down",
-    "uptime": "29.09%",
+    "uptime": "29.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1576,7 +1577,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 217,
+      "2026-05-02": 173,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1939,8 +1941,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 1440
+      "2025-05-03": 1440
     }
   }
 ]
