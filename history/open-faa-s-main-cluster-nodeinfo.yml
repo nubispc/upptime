@@ -1,7 +1,7 @@
 url: https://openfaas.nbfc.io/function/nodeinfo
 status: down
 code: 503
-responseTime: 438
-lastUpdated: 2026-06-30T00:04:26.361Z
+responseTime: 590
+lastUpdated: 2026-07-01T00:05:34.395Z
 startTime: 2023-09-03T19:00:48.919Z
 generator: Upptime <https://github.com/upptime/upptime>
