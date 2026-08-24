@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 603,
-    "timeDay": 775,
-    "timeWeek": 615,
-    "timeMonth": 664,
-    "timeYear": 649,
+    "time": 601,
+    "timeDay": 596,
+    "timeWeek": 611,
+    "timeMonth": 662,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-10-17": 23,
       "2025-11-03": 46,
@@ -39,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
-    "time": 641,
-    "timeDay": 603,
-    "timeWeek": 604,
-    "timeMonth": 637,
+    "time": 640,
+    "timeDay": 546,
+    "timeWeek": 572,
+    "timeMonth": 635,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2026-04-09": 62,
@@ -64,10 +64,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.69%",
     "time": 1121,
-    "timeDay": 1602,
-    "timeWeek": 1366,
+    "timeDay": 1366,
+    "timeWeek": 1333,
     "timeMonth": 1408,
-    "timeYear": 1142,
+    "timeYear": 1143,
     "dailyMinutesDown": {
       "2026-04-09": 197,
       "2026-06-28": 202,
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.nubificus.co.uk.ico",
     "slug": "mail-server",
     "status": "down",
-    "uptime": "64.60%",
+    "uptime": "64.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 827,
+    "time": 828,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 85,
+      "2026-08-24": 82,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -458,8 +459,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -468,19 +468,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/monit.nubificus.co.uk.ico",
     "slug": "monitoring-1",
     "status": "down",
-    "uptime": "95.08%",
+    "uptime": "94.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.74%",
-    "time": 1121,
+    "uptimeYear": "87.46%",
+    "time": 1122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1149,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2026-04-09": 61,
-      "2026-08-23": 85,
+      "2026-08-24": 82,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -534,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.nephos.gr.ico",
     "slug": "monitoring-2",
     "status": "down",
-    "uptime": "22.77%",
+    "uptime": "22.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 982,
-    "timeDay": 572,
-    "timeWeek": 587,
-    "timeMonth": 643,
-    "timeYear": 977,
+    "time": 975,
+    "timeDay": 517,
+    "timeWeek": 554,
+    "timeMonth": 636,
+    "timeYear": 970,
     "dailyMinutesDown": {
-      "2026-08-23": 85,
+      "2026-08-24": 83,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -908,8 +910,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -918,11 +919,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openfaas.nbfc.io.ico",
     "slug": "open-faa-s-main-cluster-nodeinfo",
     "status": "down",
-    "uptime": "89.01%",
+    "uptime": "88.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.73%",
+    "uptimeYear": "69.45%",
     "time": 669,
     "timeDay": 0,
     "timeWeek": 0,
@@ -930,7 +931,8 @@
     "timeYear": 628,
     "dailyMinutesDown": {
       "2026-04-09": 61,
-      "2026-08-23": 85,
+      "2026-08-24": 83,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1050,7 +1052,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/openfaas.serrano.nbfc.io.ico",
     "slug": "open-faa-s-testbed-cluster-cows",
     "status": "down",
-    "uptime": "14.79%",
+    "uptime": "14.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1061,7 +1063,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 85,
+      "2026-08-24": 83,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1424,8 +1427,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -1434,7 +1436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellofc.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellofc",
     "status": "down",
-    "uptime": "22.21%",
+    "uptime": "22.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1445,7 +1447,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 85,
+      "2026-08-24": 83,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1808,8 +1811,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   },
   {
@@ -1818,7 +1820,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hellocontainer.default.knative.nbfc.io.ico",
     "slug": "knative-testbed-cluster-hellocontainer",
     "status": "down",
-    "uptime": "26.03%",
+    "uptime": "26.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1829,7 +1831,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 85,
+      "2026-08-24": 83,
+      "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -2192,8 +2195,7 @@
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
-      "2025-08-25": 1440,
-      "2025-08-24": 1440
+      "2025-08-25": 1440
     }
   }
 ]
